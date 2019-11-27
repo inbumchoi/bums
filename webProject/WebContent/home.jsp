@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>EXCEPTION – Responsive Business HTML Template</title>
+		<title>(주) 새한시스템</title>
 		<meta name="description" content="EXCEPTION – Responsive Business HTML Template">
 		<meta name="author" content="EXCEPTION">
 		
@@ -75,16 +75,15 @@
 						<div class="row">
 							<div class="cell-5">
 							    <ul>
-								    <li><a href="#"><i class="fa fa-envelope"></i>info@it-rays.com</a></li>
-								    <li><span><i class="fa fa-phone"></i> Call Us: +1 (888) 000-0000</span></li>
+								    <li><a href="#"><i class="fa fa-envelope"></i>webmaster@saehansystem.co.kr</a></li>
+								    <li><span><i class="fa fa-phone"></i> Call Us: Tel: 032-624-1954 ~ 9</span></li>
 							    </ul>
 							</div>
 							<div class="cell-7 right-bar">
 					    		<ul class="right">
-						    	    <li><a href="cart.html"><i class="fa fa-shopping-cart"></i>0 item(s) - $0.00</a></li>
-						    	    <li><a href="siteMap.html"><i class="fa fa-sitemap"></i>Site Map</a></li>
-						    	    <li><a href="register.html"><i class="fa fa-user"></i>Register</a></li>
-						    	    <li><a href="#" class="login-btn"><i class="fa fa-unlock-alt"></i> Login</a></li>
+						    	    <li><a href="siteMap.html"><i class="fa fa-sitemap"></i>FAMILY SITE</a></li>
+						    	    <li><a href="register.html"><i class="fa fa-user"></i>회원가입</a></li>
+						    	    <li><a href="#" class="login-btn"><i class="fa fa-unlock-alt"></i>로그인</a></li>
 						        </ul>
 							</div>
 						</div>
@@ -96,15 +95,15 @@
 			    <header class="top-head" data-sticky="true">
 				    <div class="container">
 					    <div class="row">
-					    	<div class="logo cell-3">
-						    	<a href="home.html"></a>
+					    	<div class="cell-3" style="font-size:33px; padding: 15px 0px 11px 11px;">
+						    	<a href="home.html">(주)새한시스템</a>
 						    </div>
 						    <div class="cell-9 top-menu">
 							    
 							    <!-- top navigation menu start -->
 							    <nav class="top-nav mega-menu">
 								    <ul>
-								      <li class="selected"><a href="#"><i class="fa fa-home"></i><span>Home</span></a>
+								      <li class="selected"><a href="#"><i class="fa fa-home"></i><span>회사소개</span></a>
 									      <ul>
 										      <li><a href="home.html">Home Version 1</a></li>
 										      <li><a href="home2.html">Home Version 2</a></li>
@@ -114,85 +113,57 @@
 										      <li><a href="homenews.html">Home News Magazine</a></li>
 									      </ul>
 								      </li>
-								      <li><a href="#"><i class="fa fa-key"></i><span>Features</span></a>
+								      <li><a href="#"><i class="fa fa-key"></i><span>제품소개</span></a>
 								      	<ul>
-										      <li><a href="#"><i class="fa fa-send"></i>Headers</a>
+										      <li><a href="#"><i class="fa fa-bars"></i>StainlessSteel Top Chains</a>
 										      		<ul>
-										      			<li><a href="header2.html">Skewed Elements</a></li>
-										      			<li><a href="header3.html">Header Top Center Logo</a></li>
-										      			<li><a href="header-left-side.html">Left Side Header</a></li>
-										      			<li><a href="header-right-side.html">Right Side Header</a></li>
+										      			<li><a href="header2.html">Staright Chains</a></li>
+										      			<li><a href="header3.html">Sideflexing Chains</a></li>
+										      			<li><a href="header-left-side.html">Friction surface Chains</a></li>
 										      		</ul>
 										      </li>
-										      <li><a href="#"><i class="fa fa-bars"></i>Menu Styles</a>
+										      <li><a href="#"><i class="fa fa-bars"></i>Plastic Top Chains</a>
 										      		<ul>
-										      			<li><a href="home.html">Default Menu</a></li>
-										      			<li><a href="nav-2.html">Menu Style 2</a></li>
-										      			<li><a href="nav-3.html">Menu Style 3</a></li>
-										      			<li><a href="nav-4.html">Menu Style 4</a></li>
+										      			<li><a href="home.html">Straight running Chains</a></li>
+										      			<li><a href="nav-2.html">Sideflexing Chains</a></li>
+										      			<li><a href="nav-3.html">Friction surface Chains</a></li>
+										      			<li><a href="nav-4.html">Gripper Chains</a></li>
+										      			<li><a href="nav-4.html">Plate Top Chains</a></li>
+										      			<li><a href="nav-4.html">Multiflex Chains</a></li>
+										      			<li><a href="nav-4.html">Crate conveyor Chains</a></li>
+										      			
 										      		</ul>
 										      </li>
-										      <li><a href="#"><i class="fa fa-bars"></i>Sub Menu Styles</a>
+										      <li><a href="#"><i class="fa fa-bars"></i>Plastic Modular Belts</a>
 										      		<ul>
-										      			<li><a href="home.html">Default Sub Menu</a></li>
-										      			<li><a href="sub-menu-white.html">White Sub Menu</a></li>
-										      			<li><a href="sub-menu-dark.html">Dark Sub Menu</a></li>
+										      			<li><a href="home.html">Series 2120 - 2121</a></li>
+										      			<li><a href="sub-menu-white.html">Series 2250</a></li>
+										      			<li><a href="sub-menu-dark.html">Series 2251 FT - 2252 FT</a></li>
+										      			<li><a href="sub-menu-dark.html">Series 2251 VG</a></li>
+										      			<li><a href="sub-menu-dark.html">Series 2190</a></li>
+										      			<li><a href="sub-menu-dark.html">Belt for Sprockets</a></li>
+										      			<li><a href="sub-menu-dark.html">Series 2500 RR</a></li>
 										      		</ul>
 										      </li>
-										      <li><a href="#"><i class="fa fa-bars"></i>Sub Menu Effects</a>
+										      <li><a href="#"><i class="fa fa-bars"></i>Conveyor Components</a>
 										      		<ul>
-										      			<li><a href="menu-effect-fade.html">Fade Effect</a></li>
-										      			<li><a href="menu-effect-slide.html">Slide Up / Down Effect</a></li>
-										      			<li><a href="menu-effect-fadeInUp.html">Fade In Up Effect</a></li>
-										      			<li><a href="menu-effect-fadeInDown.html">Fade In Down Effect</a></li>
-										      			<li><a href="menu-effect-fadeInRight.html">Fade In Right Effect</a></li>
-										      			<li><a href="menu-effect-fadeInLeft.html">Fade In Left Effect</a></li>
-										      			<li><a href="menu-effect-flash.html">flash Effect</a></li>
-										      			<li><a href="menu-effect-pulse.html">pulse Effect</a></li>
-										      			<li><a href="menu-effect-swing.html">swing Effect</a></li>
-										      			<li><a href="menu-effect-tada.html">tada Effect</a></li>
-										      			<li><a href="menu-effect-wobble.html">wobble Effect</a></li>
-										      			<li><a href="menu-effect-none.html">No Effect</a></li>
+										      			<li><a href="menu-effect-fade.html">Chain Sprocket & Idler</a></li>
+										      			<li><a href="menu-effect-slide.html">Chain Sprocket & Idrer-2</a></li>
+										      			<li><a href="menu-effect-fadeInUp.html">Guide Wear Strip</a></li>
+										      			<li><a href="menu-effect-fadeInDown.html">Return Components</a></li>
+										      			<li><a href="menu-effect-fadeInRight.html">Straight Track</a></li>
+										      			<li><a href="menu-effect-fadeInLeft.html">Corner Track</a></li>
+										      			<li><a href="menu-effect-flash.html">Magnetic Coner Track</a></li>
+										      			<li><a href="menu-effect-pulse.html">Side Guides</a></li>
+										      			<li><a href="menu-effect-swing.html">Roller Side Guide</a></li>
+										      			<li><a href="menu-effect-tada.html">Side Brackets</a></li>
+										      			<li><a href="menu-effect-wobble.html">Roller Transfer Plate</a></li>
+										      			<li><a href="menu-effect-none.html">Collar</a></li>
 										      		</ul>
 										      </li>
-										      <li><a href="#"><i class="fa fa-bookmark"></i>Page Titles</a>
-										      	<ul>
-										      		<li><a href="page-title.html">Normal Page Title</a></li>
-										      		<li><a href="page-title-center.html">Centered Page Title</a></li>
-										      		<li><a href="page-title2.html">Page Title with Icon</a></li>
-										      		<li><a href="page-title2-center.html">Centered Page Title with Icon</a></li>
-										      		<li><a href="page-title3.html">Dark Page Title</a></li>
-										      		<li><a href="page-title3-center.html">Dark Centered Page Title</a></li>
-										      		<li><a href="page-title4.html">Skewed Page Title</a></li>
-										      		<li><a href="page-title4-center.html">Skewed Centered Page Title </a></li>
-										      		<li><a href="page-title-video-bg.html">Page Title with Video Background</a></li>
-										      		<li><a href="page-title-minimal.html">Minimal Page Title</a></li>
-										      	</ul>
-										      </li>
-										      <li><a href="#"><i class="fa fa-phone"></i>Contact Pages</a>
-										      	<ul>
-										      		<li><a href="contact.html">Contact 1 HTML</a></li>
-										      		<li><a href="contact.php">Contact 1 PHP</a></li>
-										      		<li><a href="contact2.html">Contact 2 HTML</a></li>
-										      		<li><a href="contact2.php">Contact 2 PHP </a></li>
-										      		<li><a href="contact3.html">Contact 3 HTML</a></li>
-										      		<li><a href="contact3.php">Contact 3 PHP</a></li>
-										      		<li><a href="contact4.html">Contact 4 HTML</a></li>
-										      		<li><a href="contact4.php">Contact 4 PHP</a></li>
-										      	</ul>
-										      </li>
-                                              <li><a href="#"><i class="fa fa-server"></i>Footers</a>
-                                                    <ul>
-                                                        <li><a href="footer2.html#footWrapper">Footer Version 2</a></li>
-                                                        <li><a href="footer3.html#footWrapper">Footer Version 3</a></li>
-                                                        <li><a href="footer4.html#footWrapper">Footer Version 4</a></li>
-                                                        <li><a href="footer-light.html#footWrapper">Light Colored Footer</a></li>
-                                                        <li><a href="footer-minimal.html#footWrapper">Minimal Footer</a></li>
-                                                    </ul>
-                                              </li>
 									      </ul>
 								      </li>
-								      <li><a href="#"><i class="fa fa-gift"></i><span>Portfolio</span></a>
+								      <li><a href="#"><i class="fa fa-gift"></i><span>동영상자료실</span></a>
 								      		<ul>
 										      <li><a href="portfolio-2-cols.html">Portfolio 2 columns</a></li>
 										      <li><a href="portfolio-3-cols.html">Portfolio 3 columns</a></li>
@@ -202,7 +173,7 @@
 										      <li><a href="portfolio-single2.html">Portfolio single 2</a></li>
 									      </ul>
 								      </li>
-								      <li><a href="#"><i class="fa fa-copy"></i><span>Pages</span></a>
+								      <li><a href="#"><i class="fa fa-copy"></i><span>견적의뢰</span></a>
 								      		<ul>
 										      <li><a href="about-us.html">About us</a></li>
 										      <li><a href="about-me.html">About me</a></li>
@@ -225,7 +196,7 @@
 
 									      </ul>
 								      </li>
-								      <li><a href="#"><i class="fa fa-suitcase"></i><span>Shop</span></a>
+								      <li><a href="#"><i class="fa fa-suitcase"></i><span>고객센터</span></a>
 								      		<ul>
 								      			<li><a href="#">Shop Products listing</a>
 							      					<ul>
@@ -245,7 +216,7 @@
 								      			<li><a href="check-out.html">Check out</a></li>
 								      		</ul>
 								      </li>
-								      <li><a href="#"><i class="fa fa-book"></i><span>Blog</span></a>
+								     <!--  <li><a href="#"><i class="fa fa-book"></i><span>Blog</span></a>
 								      		<ul>
 										      <li><a href="#">Blog Large Image</a>
 										      		<ul>
@@ -284,8 +255,8 @@
 										      </li>
 										      
 									      </ul>
-								      </li>
-								      <li><a href="#"><i class="fa fa-leaf"></i><span>Shortcodes <b class="menu-hint success">New</b></span></a>
+								      </li> -->
+								     <!--  <li><a href="#"><i class="fa fa-leaf"></i><span>Shortcodes <b class="menu-hint success">New</b></span></a>
 								      		<div class="div-mega main-bg">
 												<div class="div-mega-section">
 													<h4>Shortcodes Set 1</h4>
@@ -320,7 +291,7 @@
 												</div>
 												
 											</div>
-								      </li>
+								      </li> -->
 								    </ul>
 							    </nav>
 							    <!-- top navigation menu end -->
@@ -355,16 +326,21 @@
 					<div class="tp-banner" >
 						<ul>
 							 <li data-slotamount="7" data-transition="incube" data-masterspeed="1000" data-saveperformance="on">
-								<img alt="" src="images/slider/dummy.png" data-lazyload="images/slider/slider-3/slide-1-bg.jpg">
-								<div class="caption lft large-title tp-resizeme main-bg padd-horizontal-20" data-x="center" data-y="160" data-speed="600" data-start="1000">It is EXCEPTION</div>
-								<div class="caption lft large-title tp-resizeme witTxt" data-x="center" data-y="230" data-speed="600" data-start="1600">EXPECT THE UNEXPECTED</div>
-								<div class="caption lfl larger-text tp-resizeme witTxt" data-x="270" data-y="300" data-speed="600" data-start="1800">Be distinct</div>
-								<div class="caption lft larger-text tp-resizeme witTxt" data-x="420" data-y="300" data-speed="600" data-start="2000">.</div>
-								<div class="caption lfb larger-text tp-resizeme witTxt" data-x="440" data-y="300" data-speed="600" data-start="2200">Be Elegent</div>
-								<div class="caption lft larger-text tp-resizeme witTxt" data-x="585" data-y="300" data-speed="600" data-start="2400">.</div>
-								<div class="caption lfr larger-text tp-resizeme witTxt" data-x="600" data-y="300" data-speed="600" data-start="2600">Be Different</div>
+								<img alt="" src="images/slider/dummy.png" data-lazyload="images/saehan/images/saehan-1-bg.png">
+								<div class="caption lft large-title tp-resizeme main-bg padd-horizontal-20" data-x="center" data-y="160" data-speed="600" data-start="1000">SAEHAN SYSTEM CO..LTD</div>
+								<div class="caption lft large-title tp-resizeme witTxt" style="color:red" data-x="center" data-y="230" data-speed="600" data-start="1600">새한시스템</div>
+								<div class="caption lfl larger-text tp-resizeme witTxt" data-x="270" data-y="300" data-speed="600" data-start="1800">REGAL</div>
+								<div class="caption lft larger-text tp-resizeme witTxt" data-x="350" data-y="300" data-speed="600" data-start="2000">.</div>
+								<div class="caption lfb larger-text tp-resizeme witTxt" data-x="360" data-y="300" data-speed="600" data-start="2200">SYSTEM PLAST</div>
+								<div class="caption lft larger-text tp-resizeme witTxt" data-x="520" data-y="300" data-speed="600" data-start="2400">.</div>
+								<div class="caption lfr larger-text tp-resizeme witTxt" data-x="530" data-y="300" data-speed="600" data-start="2600">Solus</div>
+								<div class="caption lft larger-text tp-resizeme witTxt" data-x="610" data-y="300" data-speed="600" data-start="2800">.</div>
+								<div class="caption lfb larger-text tp-resizeme witTxt" data-x="620" data-y="300" data-speed="600" data-start="3000">TSUBAKI</div>
+								<div class="caption lfr larger-text tp-resizeme witTxt" data-x="720" data-y="300" data-speed="600" data-start="3200">.</div>
+								<div class="caption lfl larger-text tp-resizeme witTxt" data-x="730" data-y="300" data-speed="600" data-start="3400">MAKI</div>
+								
 							</li>
-							<li data-slotamount="7" data-transition="3dcurtain-vertical" data-masterspeed="1000" data-saveperformance="on">
+							<!-- <li data-slotamount="7" data-transition="3dcurtain-vertical" data-masterspeed="1000" data-saveperformance="on">
 								<img alt="" src="images/slider/dummy.png" data-lazyload="images/slider/slider-3/slide-2-bg.jpg">
 								<div class="caption lft large-title tp-resizeme witTxt light-font" data-x="0" data-y="196" data-speed="600" data-start="1600">Perfect Theme For</div>
 								<div class="caption lfb large-title tp-resizeme witTxt" data-x="0" data-y="240" data-speed="600" data-start="1800">Your Company</div>
@@ -424,7 +400,7 @@
 								data-endspeed="1500"
 								data-endeasing="Power3.easeInOut"
 								data-captionhidden="on">EXCEPTION</div>
-							 </li>
+							 </li> -->
 						</ul>
 					</div>
 				</div>
