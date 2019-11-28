@@ -100,7 +100,7 @@ body {
 	position: relative;
 	margin: 0;
 	padding: 0;
-	color: #bbb;
+	color: #000;
 	font-size: 13px;
     line-height: 1.428571429;
 	font-family: "Open Sans", Arial, sans-serif;
@@ -204,7 +204,7 @@ input[type=checkbox], input[type=radio] {
 select {
 	padding: 8px;
 	border: 1px #555 solid;
-	background: #222;
+	background: #ccc;
 	font-size: 11px;
 	line-height: 25px;
 }
@@ -4262,7 +4262,7 @@ ul.child-comment li:after {
 	-webkit-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 	border: 1px #444 solid;
-background: #222;
+	background: #ccc;
 }
 .contact-form select {
 	display: inline-block;

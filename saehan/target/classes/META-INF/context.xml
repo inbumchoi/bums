@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Context path="/" reloadable="false" useHttpOnly="true" sessionCookieName="LRSSID">
+	<Resource name="jdbc/saehanDS"
+		auth="Container" 
+		type="javax.sql.DataSource" 
+		driverClassName="org.mariadb.jdbc.Driver" 
+		url="jdbc:mariadb://211.217.11.21:3306/laurus?autoReconnect=true" 
+		username="laurus" password="onLineelql#1212"
+		maxTotal="512" maxIdle="50" 
+		defaultTransactionIsolation="READ_UNCOMMITTED" />
+</Context>
